@@ -45,7 +45,7 @@ public class Bus {
             seats[seatNumber] = false;
             return true;
         }
-        return false; 
+        return false;
     }
     public int getBusId() { return busId; }
     public String getBusType() { return busType; }
