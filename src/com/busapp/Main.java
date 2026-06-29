@@ -29,7 +29,7 @@ package com.busapp;
                         System.out.println(
                                 "Thank you for using Bus Ticket Booking System!");
                         scanner.close();
-                        return; 
+                        return;
                     default:
                         System.out.println("Invalid choice!");
                 }
